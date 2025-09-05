@@ -53,3 +53,9 @@ body{
 .input-group.error input{
     border-color: rgb(234, 32, 10);
 }
+button{
+    font-size:30px;
+    border-radius: 30%;
+    background-color: rgb(226, 209, 209);
+    color: white;
+}
